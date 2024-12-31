@@ -5,6 +5,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a double major in Music Performance!
 
+
+
 I am a sophomore at the University of Maryland - College Park, pursuing a B.S. in Computer Science and a B.A. in Horn Performance. I am actively seeking an internship in software development, focusing on full stack, front-end, or back-end roles.
 
 My coursework has provided me with hands-on experience in object-oriented programming and software engineering. I am proficient in Java, JavaScript, and C, and I have developed a custom application using Spotify's Web API to create playlists and retrieve music metadata, enhancing my skills in API integration.
