@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @morganmac25
 - 👀 I’m interested in software development, specifically full-stack
-- 🌱 I’m currently learning C programming, introductory systems programming, and assembly language through linux
 - 📫 Reach me via email @ morgan.maclean025@gmail.com 
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a double major in Music Performance!
-
 
 
 I am a sophomore at the University of Maryland - College Park, pursuing a B.S. in Computer Science and a B.A. in Horn Performance. I am actively seeking an internship in software development, focusing on full stack, front-end, or back-end roles.
