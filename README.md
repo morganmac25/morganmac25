@@ -1,4 +1,4 @@
-I am a sophomore at the University of Maryland - College Park, pursuing a B.S. in Computer Science. I have hands-on experience in object-oriented programming and software engineering, with proficiency in Java, JavaScript, and C.
+Hello! I am a sophomore at the University of Maryland - College Park, pursuing a B.S. in Computer Science. I have hands-on experience in object-oriented programming and software engineering, with proficiency in Java, JavaScript, and C.
 
 I recently developed a custom application using Spotify's Web API, which enhanced my skills in API integration and data management. My coursework has included projects such as a Sample Submit Server and a Custom Shell, allowing me to apply my knowledge in practical settings.
 
